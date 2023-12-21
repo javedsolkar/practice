@@ -6,6 +6,7 @@ initial commit
 3rd commit on feature1
 4th commit on feature2 changed
 5th commit on feature2
+mergeing test with feature
 
 6th commit on feature1
 5th commit on feature1
