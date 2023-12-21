@@ -6,3 +6,5 @@ initial commit
 3rd commit on feature1
 4th commit on feature2
 5th commit on feature2
+
+6th commit on feature1
