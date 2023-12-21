@@ -4,7 +4,7 @@ initial commit
 1st commit on feature1
 2nd commit on feature1
 3rd commit on feature1
-4th commit on feature2
+4th commit on feature2 changed
 5th commit on feature2
 
 6th commit on feature1
