@@ -4,3 +4,5 @@ initial commit
 1st commit on feature1
 2nd commit on feature1
 3rd commit on feature1
+4th commit on feature2
+5th commit on feature2
