@@ -5,7 +5,8 @@ initial commit
 2nd commit on feature1
 3rd commit on feature1
 4th commit on feature2 changed
-5th commit on feature2
+5th commit changed by main user or squashed
+mergeing test with feature
 
 6th commit on feature1
 5th commit on feature1
