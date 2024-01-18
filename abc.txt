@@ -1,8 +1,13 @@
 initial commit
 1st commit on master
-2nd commit on master
+test 2 squash rebased
 1st commit on feature1
 2nd commit on feature1
 3rd commit on feature1
 4th commit on feature2 changed
 5th commit on feature2
+start again squah test
+6th commit on feature1
+5th commit on feature1
+
+user 1 again 2
