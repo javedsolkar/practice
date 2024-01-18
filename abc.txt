@@ -9,3 +9,5 @@ test 2 squash rebased
 start again squah test
 6th commit on feature1
 5th commit on feature1
+
+featutire 1 for rebase
